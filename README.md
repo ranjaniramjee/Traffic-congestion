@@ -1,0 +1,13 @@
+# Traffic-congestion
+
+1.	Business Context 
+A big online retailer company “Amazing Zone” sells various products through their portal. One of the important feature of this business model is that the retailer takes responsibility of the shipment of the product. As the retailer takes guarantee that the purchased product will be delivered within promised timeline, customers are more inclined to purchase the products that has “Retailer fulfilled” tag associated with them. In order to keep the promise, the retailer has to invest heavily into the background shipment process that insures that the products are delivered to the customers before or on the guaranteed timeline. 
+
+2.	Business Problem Understanding
+The shipment process constitutes of several important components. The last mile delivery is carried out by the delivery boys, which are working on the company’s payroll. They are considered as critical because they are the one who faces the customer while delivering the product. They play an important role to increase the customer’s happiness by delivering the product before time, which improves upon the customer happiness index. 
+These delivery personnel’s are many times over-loaded with the task of the deliveries because of the traffic situations at the roads of the cities in which these deliveries are attempted. Due to these traffic situations, these delivery boys are not able to perform to their optimum limits on every business day. This is not a good sign for the company as this directly affects the last mile delivery of the products. 
+Currently the local distribution centers located in cities uses the static kind of scheduling technique to determine the delivery route for every delivery boy. That means, every morning the computer program prepares a delivery schedule for each delivery person which needs to be followed for completing the deliveries on the time. Many times, due to the traffic conditions on the roads, the delivery boys finds its challenging to complete the required number of deliveries which results into the delays in the whole process. To improve upon this behavior, the company is thinking of dynamic routing of the delivery personnel’s. That means, when they are on the roads, and if there are certain incident has happened on that route, then the boy will be informed about the same and also an updated route will be provided for him to follow. 
+
+Look at the records of behavior of the urban traffic of the city of Sao Paulo and 
+a)	Identify the factors causing the traffic congestion 
+b)	Suggest model that can help to improve upon the delivery schedule
